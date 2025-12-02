@@ -30,6 +30,15 @@ This project contains the exploratory testing missions conducted for the Metrobi
 * Delivery Rates allow special characters, large numbers, and negative numbers in "Per hour rate" fields.
 * "Incoming Deliveries" list does not display created deliveries.
 
+## Bugs Found
+
+The following issues were logged in the repository:
+
+1. [BUG-01 – Delivery Rates allow invalid input in "Per hour rate" field](https://github.com/celiapaivab/metrobi-test/issues/1)  
+2. [BUG-02 – Incoming Deliveries list does not display newly created deliveries](https://github.com/celiapaivab/metrobi-test/issues/2)  
+3. [BUG-03 – System allows inviting the same driver multiple times](https://github.com/celiapaivab/metrobi-test/issues/3)  
+4. [BUG-04 – Driver Payment page does not adapt to mobile viewport](https://github.com/celiapaivab/metrobi-test/issues/4)
+
 ## Recommendations
 
 To extend coverage and increase overall test quality, the following enhancements are recommended:
