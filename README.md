@@ -4,6 +4,11 @@
 
 This project contains the exploratory testing missions conducted for the Metrobi delivery platform. The main objective was to assess the platform's functionality, mobile responsiveness, and user experience across different modules.
 
+## Demo Video
+
+Watch the full exploratory testing walkthrough here:  
+🎥 [Metrobi QA Challenge – Exploratory Testing](https://youtu.be/4zIsTSgXBrE)
+
 ## Tested Modules and Wiki Links
 
 * **Deliveries** – [Mission 1 – Exploration of Deliveries Section](https://github.com/celiapaivab/metrobi-test/wiki/Mission-1-%E2%80%93-Exploration-of-Deliveries-Section)
